@@ -300,11 +300,11 @@
       "path": "prizes/B__diamond.png"
     },
     {
-      "id": "B__dyson_air_wrap",
+      "id": "A__dyson_air_wrap",
       "filename": "B__dyson_air_wrap.png",
       "type": "dyson_air_wrap",
       "label": "DYSON AIR WRAP",
-      "grade": "B",
+      "grade": "A",
       "variant": "1",
       "width": 183,
       "height": 254,
