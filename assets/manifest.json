@@ -301,14 +301,14 @@
     },
     {
       "id": "A__dyson_air_wrap",
-      "filename": "B__dyson_air_wrap.png",
+      "filename": "A__dyson_air_wrap.png",
       "type": "dyson_air_wrap",
       "label": "DYSON AIR WRAP",
       "grade": "A",
       "variant": "1",
       "width": 183,
       "height": 254,
-      "path": "prizes/B__dyson_air_wrap.png"
+      "path": "prizes/A__dyson_air_wrap.png"
     },
     {
       "id": "B__fat_stacks__1",
